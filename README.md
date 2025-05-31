@@ -47,20 +47,6 @@ Modular utilities used throughout the project:
 - `metrics.py`: Computes terminology precision/recall and OOV counts.
 - `io_utils.py`: Helpers for result printing and saving.
 
-### `cached_standard_bt.json`
-Stores the synthetic English sentences (`synthetic_en`) generated from monolingual Russian data using a RU→EN model. Paired with `mono_ru_all` as source.
-
-### `cached_pivot_bt.json`
-Stores pivot-based synthetic data generated via RU → FR → EN translation. Keys:
-- `ru_original`
-- `fr_intermediate`
-- `en_synthetic`
-
-Other pivot configurations are saved under `cached_pivot_data/<config_name>/`.
-
-### `results/`
-Contains all output results as `.json` files grouped by mode and seed.
-
 ---
 
 ## 📋 Summary of Supported Experimental Modes
