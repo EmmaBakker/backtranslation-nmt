@@ -1,0 +1,12 @@
+transformers>=4.28
+datasets>=2.11
+sentence-transformers>=2.2
+evaluate>=0.4
+sacrebleu>=2.3
+comet-ml
+scikit-learn
+matplotlib
+seaborn
+nltk
+tqdm
+torch>=1.13
