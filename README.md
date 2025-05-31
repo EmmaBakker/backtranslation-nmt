@@ -61,11 +61,6 @@ Modular utilities used throughout the project:
 
 ---
 
-## 📂 Output
-All trained models are saved under `checkpoints/`, and evaluation results are saved under `results/`.
-
----
-
 ## 📈 Requirements
 - Python 3.8+
 - Hugging Face Transformers
