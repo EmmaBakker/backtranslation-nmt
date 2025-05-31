@@ -1,6 +1,6 @@
 # Domain Adaptation for Low-Resource Biomedical Machine Translation (EN-RU Biomedical Domain Adaptation)
 
-This project investigates various strategies for using backtranslation (BT) and pivot-based BT to improve neural machine translation (NMT) from English to Russian in the biomedical domain.
+This project investigates various strategies for using backtranslation (BT), pivot-based BT and Moore-Lewis filtering to improve neural machine translation (NMT) from English to Russian in the biomedical domain.
 
 ## 🔧 Project Structure and File Overview
 
